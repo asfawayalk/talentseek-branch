@@ -1,1 +1,2 @@
-# talentseek-branch
+# TalentSeek
+team project at ModernETH
